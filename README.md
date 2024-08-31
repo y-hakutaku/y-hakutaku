@@ -24,9 +24,17 @@ SDKなのでインターフェースを揃えて開発する必要があり、Ja
 AndroidのServiceの仕様変更により、リアーキテクチャを開始.iOSをリード.
 リアーキテクチャに伴い、ボイラープレートコードを自動buildし、リリースするシステムを企画提案MVP実装後離任.
 #### OpenWorkのアプリ開発(2018-2021)
-Swift4によるフルスクラッチ開発.iOSリード.
+フルスクラッチ開発.iOSリード.
+Swift4, RxSwift, Alamofire, ObjectMapper, Realm
+MVVM + Clean Architecture.
+Firebase, Bitrise.
 :TBD:
 #### 食べチョクのアプリ開発(2021-現在)
-Swift5
+Swift5, RxSwift, Alamofire
+MVVM + Clean Architecture
+エンジニアがKPIに対して仮説をたて、PDCAサイクルを回すという面白い組織.
+施策のリード、iOSのリードとして携わる.
+技術的なインプットよりPdM的な読書が増え、哲学も読むようになった。
+哲学書を読むことが個人としての成長に影響したと感じている。
 :TBD:
 Flutter
