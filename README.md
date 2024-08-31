@@ -36,5 +36,7 @@ MVVM + Clean Architecture
 施策のリード、iOSのリードとして携わる.
 技術的なインプットよりPdM的な読書が増え、哲学も読むようになった。
 哲学書を読むことが個人としての成長に影響したと感じている。
+技術的なアウトプットで[Qiitaエンジニアフェスタで優秀賞を受賞](https://blog.qiita.com/engineer-festa-presents-winners-2021/#%E5%8F%97%E8%B3%9E%E8%A8%98%E4%BA%8B-4)
+[仮説検証の取り組みで登壇した](https://speakerdeck.com/y_hakutaku/deng-tan-zi-liao-mvpjian-zheng-nosuhitowoshang-keruqu-rizu-mi-20221029?slide=24)
 :TBD:
 Flutter
