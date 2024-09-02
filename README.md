@@ -28,7 +28,7 @@ AndroidのServiceの仕様変更により、リアーキテクチャを開始.iO
 リアーキテクチャに伴い、ボイラープレートコードを自動buildし、リリースするシステムを企画提案MVP実装後離任.
 #### OpenWorkのアプリ開発(2018-2021)
 働きがいとは何か？を求めてJoin
-フルスクラッチ開発.iOSリード.
+フルスクラッチ開発.iOSリード.アプリ内課金とサブスクリプションを含めた初めてのアプリ開発。
 採用技術: Swift4, RxSwift, Alamofire, ObjectMapper, Realm
 アーキテクチャ: MVVM + Clean Architecture.
 mBaas: Firebase, Bitrise.
