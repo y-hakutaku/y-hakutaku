@@ -2,8 +2,8 @@
 
 ### 基本情報
 - 🔭 現在の所属: [株式会社TimeTree](https://timetreeapp.com)
-- 🧑‍💻 得意な技術領域: iOS開発を10年.過去にはAndroid(Java)を5年.SDK開発の経験3年あります.
-- 🔰 学習中: Flutter, SwiftUI, Ruby on Rails
+- 🧑‍💻 得意な技術領域: iOS開発を2014年から.過去にはAndroid(Java)を5年.事業者向けiOS,Android, JavaのSDK開発の経験が3年ほどあります.
+- 🔰 学習中: SwiftUI, Ruby on Rails
 - 🎓 資格: 認定スクラムマスター (CRM)
 ### 経歴
 #### 明治大学農学部農業経済学科(2002-2006)
