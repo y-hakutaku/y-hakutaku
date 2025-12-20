@@ -105,3 +105,9 @@ UIKit / SwiftUI / Swift Concurrency / Combine / CoreData / Firebase / MVVM / Lay
 - 大規模既存プロダクトにおける新機能追加と段階的リファクタリングの両立ノウハウ
 - チーム改善・ファシリテーションによる生産性・心理的安全性の向上経験
 - モダン技術を既存基盤へ安全に導入する実践的スキル
+
+## 株式会社メドレー
+TBD
+
+Mobile App Developper
+melmoのiOS(Swift)/Android(Kotlin)担当
