@@ -1,3 +1,6 @@
+Mobile app engineer.
+I focus on the structures behind user behavior — not just what users do, but why those patterns emerge in the first place.
+
 <!---
 ## Hi there 👋
 Now Under Construction
