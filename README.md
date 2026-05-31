@@ -2,122 +2,85 @@ Mobile app engineer working on mobile product development.
 I focus on understanding user behavior in context, not just as isolated actions.
 I build mobile applications with attention to usability, structure, and long-term maintainability.
 
-モバイルアプリエンジニアとしてプロダクト開発に携わっています。
-ユーザーの行動を単なる個別の行動としてではなく、文脈の中で理解することに関心があります。
-使いやすさ・構造・長期的な保守性を意識してモバイルアプリを開発しています。
+# Mobile Engineer Experience
 
-<!---
-## Hi there 👋
-Now Under Construction
+---
 
-## オープンワーク株式会社（株式会社ヴォーカーズ）
-iOSリードエンジニア
+# OpenWork Inc. — iOS Lead Engineer
 
-新規アプリ開発におけるリードとして、iOSアプリをフルスクラッチで開発。
-技術面・運営面の両側面から、プロダクト立ち上げを推進することを期待されて入社。
+Led the development of a greenfield iOS application from scratch, owning both technical and organizational aspects of product delivery.
 
-■ 主な担当領域
-- 技術選定・アーキテクチャ設計
-	- クリーンアーキテクチャや依存関係管理の設計
-	- 使用ライブラリ・フレームワークの選定と導入
-	- セキュリティ方針の設計（private key 管理方針の策定 など）
-- 開発環境整備・CI/CD構築
-	- Xcode Cloud / GitHub Actions 等を活用した自動ビルド・テスト環境構築
-	- デプロイフロー・証明書管理などの整備
-	- App Store 審査・リリースプロセスの確立と移譲
-- チームマネジメント・開発プロセス整備
-	- デザイナー・POとの仕様調整・優先順位決定
-	- コーディング規約、レビュー方針、ワークフロー整備
-	- 振り返り、1on1、ペアプロ、ファシリテーションの導入によるチーム改善
-	- 新規メンバーのオンボーディング体制構築
-- リファクタリング・品質改善
-	- リリース後のコード品質改善施策（責務分離・テスト導入）
-	- 中長期の保守性を見据えたリファクタリング計画の推進
+### Key Responsibilities
+- Designed system architecture (Clean Architecture, dependency management, security policies including key management)
+- Built CI/CD pipelines using Xcode Cloud and GitHub Actions (build, test, and release automation)
+- Defined development workflows (coding standards, code review rules, onboarding process)
+- Collaborated with designers and product owners on prioritization and specifications
+- Improved team processes through retrospectives, 1:1s, and pair programming
+- Led refactoring initiatives to improve long-term maintainability and code quality
 
-■ 成果・実績
+### Outcomes
+- Successfully delivered and launched a new mobile application on schedule  
+- Established development and quality standards for the team  
+- Built a sustainable process for continuous improvement and technical debt management  
 
-- 新規アプリを予定通りリリースし、初期段階から安定稼働を実現
-- チーム内での開発プロセス・品質基準を標準化し、以後のスプリント開発の基盤を整備
-- 技術的負債の管理・改善サイクルを確立し、継続的改善が可能な体制を構築
+### Tech Stack
+UIKit / RxSwift / Realm / MVVM / Clean Architecture / Firebase / Bitrise / Xcode Cloud
 
-■ 得られた知見・スキル
+---
 
-- 0→1フェーズのプロダクト開発リード経験
-- 技術とチーム運営の両面からの立ち上げ支援スキル
-- セキュリティ・CI/CD・開発体験を重視したiOS開発ノウハウ
+# Vivid Garden Inc. — iOS / Product Engineer
 
-■ 使用技術
+Worked on an existing mobile product, focusing on feature development and UX improvement through hypothesis-driven and data-informed development.
 
-UIKit / RxSwift / Realm / Bitrise / MVVM / Layered Architecture / Firebase
+### Key Responsibilities
+- Conducted user research (interviews, dogfooding)
+- Defined and prioritized hypotheses using qualitative and quantitative data
+- Ran MVP-based validation cycles
+- Improved search experience (keyword → category-based search redesign)
+- Evaluated feature usage and redesigned UX (e.g., posting tab)
+- Collaborated with CS, marketing, and product teams
+- Proposed and implemented architectural improvements
 
-## 株式会社ビビッドガーデン
-iOSエンジニア／プロダクトエンジニア
+### Outcomes
+- Established hypothesis-driven development cycle
+- Improved cross-functional collaboration efficiency
+- Contributed to UX and behavioral metric improvements
 
-既存アプリの機能追加およびUX改善を通じて、
-数値目標（CVR・LTV・継続率など）の達成を目的とした仮説検証型開発を推進。
-ユーザー視点からの課題発見と定量的な裏付けを基に、MVP検証サイクルを実践。
+### Tech Stack
+UIKit / RxSwift / Firebase / MVVM / Fastlane / Mixpanel / KARTE / Adjust / XCTest
 
-■ 主な担当業務
-- 仮説検証・プロダクト改善
-	- ドッグフーディングおよびユーザーインタビューによる定性調査
-	- データ分析による定量的裏付けを行い、仮説の優先順位付けと実装判断を実施
-	- MVP開発を通じた高速検証サイクルを確立
-- 機能改善・UI/UX改修
-	- 商品検索リニューアル：文字列検索からカテゴリ検索への移行により、商品発見率を改善
-	- 投稿タブの必要性検証：利用実態・定量データを基に導入効果を分析
-- チーム連携・事業支援
-	- CSチームのワークフロー改善（問い合わせ対応・顧客フィードバック連携の効率化）
-	- マーケティングチームと連携し、販促施策の企画・実現を支援
-	- 事業企画チームと共同で季節商品の販売企画を立案し、アプリ・Web双方での実装方法を検討
-- 技術的取り組み
-	- 既存コードベースのリファクタリングおよびアーキテクチャ整理
-	- 保守性・開発効率を向上するための技術的改善施策の提案と実装
+---
 
-■ 成果・実績
-- 仮説検証サイクルを定着させ、数値目標の改善に寄与
-- 部門横断での連携を推進し、CS〜マーケ〜開発間の情報共有・施策実行速度を向上
-- 検索・投稿周りのUX改善を通じて、ユーザー行動データの向上を実現
+# TimeTree Inc. — iOS Engineer
 
-■ 使用技術
+Worked on feature development and quality improvement for a large-scale shared calendar application, while contributing to team process improvements.
 
-UIKit / RxSwift / Firebase / MVVM / Layered Architecture / Fastlane / Adjust / Mixpanel / KARTE / XCTest
+### Key Responsibilities
+- Developed new features for existing mobile application
+- Performed incremental refactoring of legacy codebase
+- Proposed improvements to development workflow
+- Facilitated retrospectives and team discussions
 
-■ 得られた知見
-- 定性・定量を融合した仮説検証型のグロース施策推進スキル
-- 複数部門と連携し、ビジネス視点からプロダクト改善を進める実行力
-- 継続的改善を支える開発体制・アーキテクチャ設計力
+### Outcomes
+- Delivered new features to production
+- Contributed to continuous improvement culture
+- Improved development process maturity
 
-## 株式会社TimeTree
-iOSエンジニア
+### Tech Stack
+UIKit / SwiftUI / Combine / Swift Concurrency / CoreData / Firebase / MVVM / Fastlane / XCTest
 
-既存の共有カレンダーアプリにおける新機能開発および品質改善を担当。
-チーム全体の開発プロセス改善やメンバー支援も並行して行い、技術面・組織面双方での改善を推進。
+---
 
-■ 主な担当業務
-- 機能開発・改善
-    - 共有カレンダー関連の新機能を追加し、既存体験の向上を実現
-	- 既存コードベースに対する小規模なリファクタリングを実施し、保守性や生産性を向上
-	- チーム運営・改善活動
-	- 事業部チームのスクラム運用の改善提案と実現
-	- iOSチーム内での定期的な振り返りミーティングをファシリテート
+# Overall Summary
 
-■ 成果・実績
+Mobile app engineer with experience across:
+- Greenfield product development (0→1)
+- Growth and hypothesis-driven development (1→10)
+- Large-scale legacy product improvement
 
-- 新機能の追加リリース
-- チーム全体の改善文化を醸成し、振り返りを軸とした継続的な改善サイクルを確立
-  
-■ 使用技術
+Focused on bridging:
+- Product thinking
+- User behavior understanding
+- System design and implementation
 
-UIKit / SwiftUI / Swift Concurrency / Combine / CoreData / Firebase / MVVM / Layered Architecture / Fastlane / XCTest / SwiftTesting
-
-■ 得られた知見
-- 大規模既存プロダクトにおける新機能追加と段階的リファクタリングの両立ノウハウ
-- チーム改善・ファシリテーションによる生産性・心理的安全性の向上経験
-- モダン技術を既存基盤へ安全に導入する実践的スキル
-
-## 株式会社メドレー
-TBD
-
-Mobile App Developper
-melmoのiOS(Swift)/Android(Kotlin)/Web担当
----!>
+---
