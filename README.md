@@ -1,5 +1,10 @@
-Mobile app engineer.
-I focus on the structures behind user behavior — not just what users do, but why those patterns emerge in the first place.
+Mobile app engineer working on mobile product development.
+I focus on understanding user behavior in context, not just as isolated actions.
+I build mobile applications with attention to usability, structure, and long-term maintainability.
+
+モバイルアプリエンジニアとしてプロダクト開発に携わっています。
+ユーザーの行動を単なる個別の行動としてではなく、文脈の中で理解することに関心があります。
+使いやすさ・構造・長期的な保守性を意識してモバイルアプリを開発しています。
 
 <!---
 ## Hi there 👋
