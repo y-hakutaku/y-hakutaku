@@ -84,3 +84,18 @@ Focused on bridging:
 - System design and implementation
 
 ---
+
+## Research / Experimental App Development
+
+I am open to collaborating with researchers who need a mobile application for research or experimental purposes.
+
+For example:
+- Behavioral data collection through mobile applications
+- Smartphone-based experiments
+- UX / HCI research
+- Prototypes for research studies
+- Mobile interventions and user studies
+
+I can support the process from understanding research requirements and designing the application to implementation, deployment, and data collection.
+
+If you are considering a research project that could benefit from a mobile application, feel free to reach out.
